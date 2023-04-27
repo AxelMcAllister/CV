@@ -5,7 +5,6 @@ I'm a **Java / Spring Boot** developer with **five years** of experience writing
 ### Contact information
 email: [axelmc@gmail.com](mailto:axelmc@gmail.com)  
 phone: [+34 657 977 367](tel:+34657977367)  
-<a href="tel:0123456789" style="color:red">0123.456.789</a>
 linkedin: [axel-mc-allister-144666197](https://www.linkedin.com/in/axel-mc-allister-144666197/)
 
 ## Projects
