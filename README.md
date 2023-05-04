@@ -32,8 +32,8 @@ _Java Senior Consultant_
 [**BeLike Software**](https://www.belikesoftware.com/) (_Mar 2021 - Jan 2022_)  
 _Java Consultant_
 
-- At **BeLike**, I met the team behind the **Idrica's Smart Metering** project.
-- I started using **SonarLint** and **SonarQube** to guarantee the **code coverage**.
+- At **BeLike**, I met the team behind **Idrica's Smart Metering** project.
+- I started using **SonarLint** and **SonarQube** to guarantee **code coverage**.
 - I learned a great deal about **monitoring and log tracing** with the **ELK Stack** and **Grafana**.
 - I started using **Jenkins pipelines** to deploy new commits to the **different environments**.
 
