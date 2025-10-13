@@ -1,7 +1,7 @@
 ## Axel Mc Allister
 
-I'm a **Java / Spring Boot** developer with **five years** of experience writing quality code. In these years, I've helped big companies develop robust and resilient complex software services.
-Now I'm looking forward to seeing the true potential of AI and what I can learn from it.
+I'm a **Java / Spring Boot** developer with **more than 10 years** of experience writing high-quality code. Over the years, I've helped large companies develop robust and resilient complex software services.
+Currently, I'm experimenting with **AI integration in Spring Boot**, including the development of **intelligent chatbots** and **MCP (Model Context Protocol) server** integrations. I'm also exploring **AI-assisted development workflows** using tools such as **GitHub Copilot**, **JetBrains Junie**, **Claude Code**, and **OpenAI's Codex** to enhance productivity, code quality, and architectural design.
 
 ### Contact information
 
@@ -17,8 +17,8 @@ linkedin: [axel-mc-allister-144666197](https://www.linkedin.com/in/axel-mc-allis
 | **Frameworks**      | Spring Boot, Angular, Basic for Android                                         |
 | **Architecture**    | Microservices, Event Driven, Hexagonal, DDD                                     |
 | **Databases**       | Oracle, MySQL, MariaDB, PostgresSQL, H2, MongoDB, Liquibase, Flyway             |
-| **Message Brokers** | Apache Kafka                                                                    |
-| **Testing**         | TDD, JUnit, Mockito                                                             |
+| **Message Brokers** | Apache Kafka, RabbitMQ                                                          |
+| **Testing**         | TDD, JUnit, Mockito, Test Containers                                            |
 | **Coverage**        | SonarQube, SonarLint                                                            |
 | **DevOps**          | OpenShift, Kubernetes, Docker                                                   |
 | **CI/CD**           | BitBucket, GitLab, GitHub, Jenkins                                              |
@@ -30,6 +30,7 @@ linkedin: [axel-mc-allister-144666197](https://www.linkedin.com/in/axel-mc-allis
 
 | Name                           | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Tech/tools                                                                                                                                                                                                                                                                                                                                          |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Pacman**                     | **Pacman** is an internal software project developed for **Inditex**, a leading multinational fashion retailer. The system provides advanced tools for catalog editors, enabling them to create and manage web product grids that display clothing collections across Inditex’s online stores. These grids are dynamically sorted and filtered by complex business and visual criteria, ensuring an optimized and cohesive presentation of fashion items across multiple brands and markets.               | Framework: **Spring Boot**, **Spring Data**, and **OpenApi**<br/>Testing: **JUnit**, **Mockito**<br/>Messaging: **Kafka**<br/>DB: **MongoDB**<br/>CD/CI: **GitHub Actions**<br/>Coverage: **SonarQube** and **SonarLint**<br/>Containerization: **OpenShift**                                                                                       |
 | **PR5**                        | **PR5** is a distributed system developed by the [**Spanish Ministry of Justice**](https://www.mjusticia.gob.es/en) in conjunction with [**Banco Santander**](https://www.bancosantander.es/) to allow citizens to pay their debts through the bank's ATMs. My role was to design an develop the **microservice** that received the requests from the ATMs, validated them, and forwarded them to other microservices, in a **non-blocking** manner.                                                       | Framework: **Spring Boot**, **Spring Data**, **Spring WebFlux** and **OpenApi**<br/>Testing: **JUnit**, **Mockito**<br/>Messaging: **Kafka**<br/>DB: **Oracle**, **Flyway**<br/>CD/CI: **Jenkins**<br/>Coverage: **SonarQube** and **SonarLint**<br/>Containerization: **OpenShift**                                                                |
 | **SmartPricing**               | **SmartPricing** is [**Minsait**](https://www.minsait.com/en)`s proprietary tool to elaborate complex multidisciplinary and international long-term project **budgets** for big companies, taking into account thousands of variables. I was entrusted with the task of **importing and exporting** these budgets to and from large multi-sheet **Excel XLSX files** along with all the necessary **master tables** from the **Oracle Database**, so they could be used offline by an specific department. | Framework: **Spring Boot** and **Spring Data**<br/>Excel parsing: **Apache POI**<br/>Testing: **JUnit** and **Mockito**<br/>DB: **Oracle** and **Flyway**<br/>                                                                                                                                                                                      |
 | **Smart Metering**             | **Smart Metering** is [**Idrica**](https://www.idrica.com/)'s software solution to acquire and analyze data collected from millions of **IoT water meters** deployed in cities like Valencia, Barcelona, Tokio, and Athens.                                                                                                                                                                                                                                                                                | Framework: **Spring Boot** and **Spring Data**<br/>Data streaming: **Apache Flink**<br/>Messaging: **Apache Kafka**<br/>DB: **PostgresSQL** and **Flyway**<br/>CD/CI: **Jenkins**<br/>Testing: **JUnit** and **Mockito**<br/>Coverage: **SonarQube** and **SonarLint**<br/>Monitoring: **Elastic Search**, **Logstash**, **Kibana** and **Grafana** |
@@ -38,7 +39,16 @@ linkedin: [axel-mc-allister-144666197](https://www.linkedin.com/in/axel-mc-allis
 
 ## Work Experience
 
-[**Alvea Soluciones Tecnológicas**](https://alvea.es/) (_Jan 2022 till present_)  
+[**Inditex**](https://inditex.com/) (_Oct 2023 - May 2025_)  
+_Java Senior Consultant_
+- At **Inditex**, I was a member of the **Pacman Team**, responsible for designing and developing high-throughput, highly concurrent internal applications supporting Inditex’s global operations.
+- I led backend development using Java and **Spring Boot**, applying **Domain-Driven Design (DDD)** principles to build scalable **microservice** architectures.
+- I leveraged robust **CI/CD pipelines** with **GitHub Actions**, ensuring reliable and automated deployment processes.
+- I integrated **Kafka** for **event-driven communication** across distributed systems, improving performance and data consistency.
+- I applied best practices in **unit and integration testing** to maintain code quality and system reliability.
+- I collaborated with **cross-functional teams** to deliver resilient solutions aligned with business and technical goals.
+
+[**Alvea Soluciones Tecnológicas**](https://alvea.es/) (_Jan 2022 - Aug 2023_)  
 _Java Senior Consultant_
 
 - At **Alvea**, I had the opportunity to work with a great team
